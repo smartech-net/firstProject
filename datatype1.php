@@ -20,3 +20,5 @@ $dbh = new PDO("mysql:dbhost=localhost;dbname=newspaper5","root","");
 $x = null; // x is null
 $x = ""; // x is null
 // resource
+
+echo 'submit with git';
